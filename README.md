@@ -3,7 +3,8 @@ All Facebook hacking tools available in one script..
 
 DO NOT USE ON YOUR MAIN FACEBOOK ACCOUNT
 
-#INSTALLATION
+INSTALLATION:
+======================================
 
   $ git clone https://github.com/HackingHubYT/fb-hacking-tools
 
@@ -13,9 +14,21 @@ DO NOT USE ON YOUR MAIN FACEBOOK ACCOUNT
 
   $ python2 FB-tools.py
 
+Tools.
+      dark fb v1.7
+
+      dark fb v1.8
+
+      dark fb new
+
+      dark fb diamond
+
+      dark fb premium
+
 Note: Do not use on your main account.
 
 
-#YOUTUBE
+YOUTUBE:
+======================================
 
 YOUTUBE link.... https://www.youtube.com/c/HackingHubX
